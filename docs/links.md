@@ -7,7 +7,7 @@ sidebar_position: 8
 
 
 - 🌎  [Website](https://aethercity.org)
-- 💬  [Discord](discord.gg/aethercity)
+- 💬  [Discord](https://discord.gg/aethercity)
 - 🐦  [Twitter](https://twitter.com/aether_city)
 - 📈  [Dune](https://dune.xyz/rantum/NFT-Collection-Dashboard?contract_address=x31d4c5be1082a88f2abafea549b6c189c2cf057f)
 - 🗞  [Medium](https://medium.com/@aethercity)
