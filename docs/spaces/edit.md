@@ -14,3 +14,4 @@ persist your changes. All changes are saved off-chain and incur no
 gas fees.
 
 ![Space Menu](/img/space-hud.jpeg)
+![Space Menu](/img/aether-space-edit.png)
