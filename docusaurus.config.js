@@ -6,9 +6,9 @@ const darkCodeTheme = require("prism-react-renderer/themes/dracula")
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: "Aether",
+  title: "Solaris",
   // tagline: 'Dinosaurs are cool',
-  url: "https://your-docusaurus-test-site.com",
+  url: "https://solaris.so",
   baseUrl: "/",
   onBrokenLinks: "throw",
   onBrokenMarkdownLinks: "warn",
@@ -37,9 +37,9 @@ const config = {
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
       navbar: {
-        title: "Aether",
+        title: "Solaris",
         logo: {
-          alt: "My Site Logo",
+          alt: "Solaris Logo",
           src: "img/logo-black.svg",
           srcDark: "img/logo-white.svg",
         },
@@ -51,12 +51,7 @@ const config = {
             label: "Docs",
           },
           {
-            href: "https://opensea.io/collection/aether",
-            label: "OpenSea",
-            position: "right",
-          },
-          {
-            href: "https://discordapp.com/invite/aethercity",
+            href: "https://discord.com/invite/n6sMFbAjUT",
             label: "Discord",
             position: "right",
           },
@@ -84,11 +79,11 @@ const config = {
             items: [
               {
                 label: "Discord",
-                href: "https://discordapp.com/invite/aethercity",
+                href: "https://discord.com/invite/n6sMFbAjUT",
               },
               {
                 label: "Twitter",
-                href: "https://twitter.com/aether_city",
+                href: "https://twitter.com/solaris_nft",
               },
             ],
           },
@@ -98,6 +93,11 @@ const config = {
       prism: {
         theme: lightCodeTheme,
         darkTheme: darkCodeTheme,
+      },
+      colorMode: {
+        defaultMode: "dark",
+        disableSwitch: false,
+        respectPrefersColorScheme: false,
       },
     }),
 }
