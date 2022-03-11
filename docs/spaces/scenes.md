@@ -5,7 +5,7 @@ sidebar_position: 3
 # Scenes
 
 At the launch of Spaces we have included core scenes for our community
-to experiment with. These scenes are custom to Aether's platform and are
+to experiment with. These scenes are custom to Solaris's platform and are
 currently optimized for NFT Galleries. Each Space is crafted and optimized
 to run in browser to create a rich in-browser experience.
 

@@ -24,14 +24,14 @@ Since our mint is by Candy Machine, all tiers of membership will be accessible b
 Members are the entry tier into the Solaris community and come with all the benefits of property ownership. Join our exclusive
 community today and make it yours.
 
-![Aether Wrap](/img/nft-unit-1.png)
+![Unit](/img/nft-unit-1.png)
 
 
 ## Penthouse (Unit)
 Penthouses are units that occupy the highest floor of a building. Penthouses are the most prized units in a building due to
 their ease of access and amazing views. We also plan to provide an exclusive Space scene to this tier in the future.
 
-![Aether Wrap](/img/nft-penthouse-2.png)
+![Penthouse](/img/nft-penthouse-2.png)
 
 
 ## Partner (Building)
@@ -40,4 +40,4 @@ advertising spaces. As a owner you have control over the first level of the buil
 it (unless you own those too). Buildings are intended for our largest partners; for example a DAO might acquire a building in
 order to hold a prominent position in the city. We offer an exclusive NFT gallery scene to this tier of ownership.
 
-![Aether Wrap](/img/nft-building-1.png)
+![Building](/img/nft-building-1.png)

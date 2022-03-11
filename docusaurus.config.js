@@ -14,7 +14,7 @@ const config = {
   onBrokenMarkdownLinks: "warn",
   favicon: "img/favicon.ico",
   organizationName: "Aether Labs", // Usually your GitHub org/user name.
-  projectName: "aether", // Usually your repo name.
+  projectName: "solaris", // Usually your repo name.
 
   presets: [
     [
@@ -56,7 +56,7 @@ const config = {
             position: "right",
           },
           {
-            href: "https://aethercity.org",
+            href: "https://solaris.so",
             label: "Website",
             position: "right",
           },
