@@ -3,8 +3,8 @@ sidebar_position: 3
 ---
 
 # Wrapping
-Billboards light up a city. Wrapping is a feature that lets 
-property owners customize the exterior appearance of their properties. 
+
+Wrapping is a feature that lets property owners customize the exterior appearance of their properties.
 Data is stored off-chain and there are are no fees associated with updating
 a wrap. Wraps allow our community to make changes that affect the
 way our city renders and are the first thing users can see when
@@ -12,16 +12,11 @@ visiting our city.
 
 ![Solaris Wrap](/img/solaris-wrap-boryoku.jpg)
 
-:::note
-Wrapping is an experimental feature. This feature is subject to evolve and change as
-we upgrade the rendering capabilities for Solaris over time.
-:::
 ## User Guide
 
-For existing property owners, you'll need to visit your property 
+For existing property owners, you'll need to visit your property
 page. To login press `Connect` authenticate your permissions; we use this to ensure that you are the current owner of the property. Under
 the `⚙ Gear` menu from the property page you will see an option for `🎁 Wrap`
-
 
 :::tip
 The menu option will not appear if your currently authenticated wallet is not the owner of the property.
@@ -39,8 +34,9 @@ aspect ratio of your property. You can see the recommended values
 from the tooltip for each compass direction during submission.
 
 ### Building
+
 ![Solaris Wrap](/img/solaris-wrap-editing.png)
 
 ### Unit
-![Solaris Wrap](/img/solaris-wrap-units.png)
 
+![Solaris Wrap](/img/solaris-wrap-units.png)

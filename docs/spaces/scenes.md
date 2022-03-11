@@ -11,17 +11,17 @@ to run in browser to create a rich in-browser experience.
 
 ## Eligibility
 
-Unlike other projects in this Space that lock you to a single scene, we treat Solaris as a membership. The scenes we offer will expand in grow to add additional utility over time.
+Unlike other projects in this Space that lock you to a single scene, we treat Solaris as a membership with evolving utlity. The scenes we offer will expand to add additional utility to owners over time.
 
-| Scene             | Membership                       | Type            | Availability    |
-| ----------------- | -------------------------------- | --------------- | --------------- |
-| Genesis           | All (Unit, Penthouse, Building)  | Gallery         | At Launch       |
-| Terci             | Penthouse, Building              | Gallery         | At Launch       |
-| Ethos             | Building                         | Gallery         | At Launch       |
-| Quartus           | All (Unit, Penthouse, Building)  | Residence       | Q2              |
+| Scene             | Membership                       | Type            | Availability           |
+| ----------------- | -------------------------------- | --------------- | ---------------------- |
+| Genesis           | All (Unit, Penthouse, Building)  | Gallery         | March 2022 (At Launch) |
+| Terci             | Penthouse, Building              | Gallery         | March 2022 (At Launch) |
+| Ethos             | Building                         | Gallery         | March 2022 (At Launch) |
+| Quartus           | All (Unit, Penthouse, Building)  | Residence       | April 2022             |
 
-:::info
-We plan to introduce additional spaces tailored to the needs of the community this year. The above table outlines the scenes we've already been working on but doesn't include our future utility.
+:::tip
+We plan to introduce additional spaces tailored to the needs of the community this year. The above table outlines the scenes we've already been working on but doesn't include our future plans to enable more types of spaces. (ie: `Community Spaces`, `DAO Spaces`, `Partnership Spaces`)
 :::
 
 ## Genesis
@@ -52,10 +52,11 @@ a basis for modular and custom congifuration of larger spaces.
 
 ## Quartus
 
-Make yourself at home.
+Quartus is our first residential space. Modeled after modern luxury condo offerings, it is a perfect
+place to return to after a long day in Solaris. Make yourself at home.
 
-:::caution
-This scene has not been released yet.
+:::note
+This scene has not been released yet but will be available to members in April 2022.
 :::
 
 ![Genesis](/img/quartus.jpg)

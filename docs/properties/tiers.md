@@ -2,7 +2,7 @@
 sidebar_position: 1
 ---
 
-# Types
+# Tiers
 
 Solaris consists of a finite amount of property that can be
 found under 2 different categories: **Units** and **Buildings**.
@@ -35,7 +35,7 @@ an exclusive owner, who creates the design of
 the building and has the ability to connect the building to its own
 domain.
 
-:::note
+:::tip
 Building surfaces are high-value advertising spaces and are not meant for
 entry level investors. Just like how it would be difficult for one
 individual to afford a skyscraper in New York City.

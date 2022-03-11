@@ -22,4 +22,4 @@ challenging but our team is has already started.
 
 
 ![Space Home](/img/solaris-intro.png)
-![Building Boryoku](/img/solaris-spaces-boryoku.jpg)
+![Building Boryoku](/img/solaris-intro.jpg)
