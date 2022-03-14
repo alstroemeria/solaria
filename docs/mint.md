@@ -7,12 +7,13 @@ sidebar_position: 5
 
 
 :::tip
-Solaris pre-sale mint starts on **March 13 @5:00PM UTC** followed by our public mint **March 13 @8:00PM UTC**. Our supply is `5000` and mint price is `2 SOL`.  We've put together a guide to help you navigate through the different steps you'll need to follow.
+Solaris pre-sale mint starts on **March 13 @5:00PM UTC** followed by our public mint **March 13 @8:00PM UTC**. Our supply is `5000` and mint price is `2 SOL`. Minting will be hosted on our website at [https://solaris.so](https://solaris.so). We've put together a guide to help you navigate through the different steps you'll need to follow.
 :::
+
 
 This process was designed with three aims: make distribution fair and transparent, ensure access for people we want in our long-term community, and favor humans over bots. Details are subject to change, and feedback is welcome on Discord.
 
-## 1. Preparing a Wallet
+## Preparing a Wallet
 
 To mint an NFT on the Solana blockchain, you'll need both Solana (SOL) and a wallet that can hold your NFT. We recommend using [Phantom](https://phantom.app/) as your wallet of choice.
 
@@ -36,20 +37,23 @@ We'll also be enabling a credit card option that will not require a wallet. Skip
 :::
 
 
-## 2. Minting
+## Minting
 
 
 On minting day (March 13) you'll need to connect your wallet to our website using the `Connect Wallet` button in the bottom left corner — a modal will open, and you'll need to choose the wallet type you created earlier.
 
 ![Minting](/img/mint-connect-1.png)
 ![Minting](/img/mint-connect-2.png)
-
-
 ### Pre-sale Mint (Whitelist)
 
-Whitelist is done through Solana tokens. `5000` NFTs will be available to mint for active community members starting 5:00 p.m. UTC on March 13 at `2 SOL`. Each person can pre-mint `1` NFT, and there are no limits during the public phase.
+Whitelist is done through Solana tokens. `5000` NFTs will be available to mint for active community members starting 5:00 p.m. UTC on March 13 at `2 SOL`. Each wallet will be given `1` NFT, and there are no limits to how many NFTs you can mint during the public phase.
 
-Active community members, those from existing collections, or DAOs will need to obtain a "whitelisted" role, which will grant them access to a private Discord channel `#whitelist-submission` where they can submit their wallet address to be added to the pre-sale.
+:::note
+Existing holders of our existing project **Aether (Ethereum)**, may have been allocated `>1 WL` token at request based on their current property holdings as opposed to per wallet. If you are a current Aether member, file a ticket in our discord for more info.
+:::
+
+Active community members, those from existing collections, or DAOs will need to obtain a `@whitelisted` role, which will grant them access to a private Discord channel `#whitelist-submission` where they can submit their wallet address to be added to the pre-sale.
+
 
 :::caution
 If you've obtained the `whitelisted` role in our discord you still need to submit your wallet on our `#wallet-submission` channel on discord to get tokens sent to your wallet before the mint.
@@ -60,7 +64,6 @@ If you've obtained the `whitelisted` role in our discord you still need to submi
 If you do not have a whitelist token during the mint, you will see this option is disabled. **Stick around, the public phase opens shortly after the pre-sale.**
 
 ![Minting](/img/mint-nowl.png)
-
 
 ### Public Mint
 
@@ -74,13 +77,16 @@ Once your wallet is connected, click "Mint," and you should see an overview of t
 
 
 ![Minting](/img/mint-approve.png)
-
-
-
+:::note
+If you see a second token being consumed as part of the transaction, don't worry this is our whitelist token. It will differ from the screenshot above. Our whitelist token is `Gso9VgvACphPJerk32vTmsvCPN6H79pKqdUMZVCGfRnf`.
+:::
 
 ## Credit Cards
-We will also be partnering with our friends from Crossmint to enable "Buy with credit card" during the public phase. You will be guided thought onboarding with [Crossmint](https://www.crossmint.io/) to complete the transaction.
+We will be partnering with our friends from Crossmint to enable "Buy with credit card" during the public phase. You will be guided thought onboarding with [Crossmint](https://www.crossmint.io/) to complete the transaction.
 
 ![Minting](/img/mint-crossmint.png)
 
+## Pre-mint
+
+Our core team will be pre-minting `100` properties of the `5000` supply. Since the minting process is random through `CandyMachineV2`, these will be randomly assigned and held in our treasury. This supply will be used for community spaces, demo spaces, partnerships, and future giveaways.
 

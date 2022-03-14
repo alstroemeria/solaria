@@ -25,7 +25,7 @@ to see one of our existing Spaces! We're compatible with desktop and mobile devi
 
 ### Demo
 
-Visit [https://solaris.so/space](https://Solariscity.org/space)
+Visit [https://solaris.so/space](https://solaris.so/space)
 to begin. These public Spaces are mapped 1:1 with a connected wallet address. These spaces will not be
 discoverable on Solaris at this time however we're looking for
 amazing collectors to join our community all the time. Show us how
